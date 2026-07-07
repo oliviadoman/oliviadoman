@@ -17,5 +17,5 @@ Stanford CS '26, Visual Computing track.
   once you've got the README written]
 
 ---
-As part of Stanford's honor code, coursework from CS106A, CS106B, and CS109 is kept private.
+As part of Stanford's honor code, coursework is kept private.
 Email me if you'd like access.

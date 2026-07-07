@@ -11,11 +11,9 @@ Stanford CS '26, Visual Computing track.
 - 📫 olivia.d.doman@gmail.com
 
 #### Featured projects
-- [**spectral-path-tracer**](https://github.com/oliviadoman/spectral-path-tracer) — physically-based
-  spectral rendering & chromatic dispersion in a GPU path tracer (CS248A)
-- [**pupper_pickerupper**](https://github.com/oliviadoman/pupper_pickerupper) — [one-line description
-  once you've got the README written]
-
+- [**spectral-path-tracer**](https://github.com/oliviadoman/spectral-path-tracer) — physically-based spectral rendering & chromatic dispersion in a GPU path tracer (CS248A)
+- [**2.5D Parallax Pipeline**](https://github.com/oliviadoman/2.5D_Parallax_Pipeline-Senior_Project-) — automated single-image reprojection for camera-reactive parallax on LED volume stages, using monocular depth estimation and generative inpainting; convincing for camera translations up to ~80px before depth-threshold and inpainting seams become visible (Senior Project)
+- [**Pupper_PickerUpper**](https://github.com/oliviadoman/pupper_pickerupper) — voice-controlled robot dog that autonomously retrieves pickleballs, then switches to person-tracking on command, using LLM-parsed voice commands (CS123)
 ---
 As part of Stanford's honor code, some coursework is kept private.
 Email me if you'd like access.

@@ -1,10 +1,21 @@
-- Hi I'm Olivia Doman
-- Stanford CS, Visual Computing 2026
-- email: olivia.d.doman@gmail.com
+### Hi, I'm Olivia 👋
 
-As a part of my university's honor code I am unable to publicly share course specific code, please email me to view private repositories.
+Software Engineer building generative AI tooling for visual computing & VFX pipelines.
+Stanford CS '26, Visual Computing track.
 
-Private content includes coursework from CS 106A Programming Methodology (Python), 106B Progreamming Abstractions (C++), 109 Probability for Computer Sciencetists (Python).
-  - CS 106A: Basic Programming Concepts, Functions and Flow Control, Data Structures, File Processing, and Debugging.
-  - CS 106B: Class Abstract Data Types, Recursion and Backtracking, Object-Oreinted Programming, Pointers and Dynamic Memory, and Linked Data Structures.
-  - CS 109: Single-Dimension Random Variables, Probabilistic Models, Uncertainty Theory, Parameter Estimation, Machine Learning
+- 🎬 Currently: Software Developer Intern at **Rodeo FX**, shipping AI-driven image/video
+  tooling into production VFX pipelines
+- 🔭 Interests: generative AI (diffusion, inpainting), real-time graphics, computer vision
+- 🌐 Portfolio: [oliviadoman.com](https://www.oliviadoman.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oliviadoman/)
+- 📫 olivia.d.doman@gmail.com
+
+#### Featured projects
+- [**spectral-path-tracer**](https://github.com/oliviadoman/spectral-path-tracer) — physically-based
+  spectral rendering & chromatic dispersion in a GPU path tracer (CS248A)
+- [**pupper_pickerupper**](https://github.com/oliviadoman/pupper_pickerupper) — [one-line description
+  once you've got the README written]
+
+---
+As part of Stanford's honor code, coursework from CS106A, CS106B, and CS109 is kept private.
+Email me if you'd like access.
